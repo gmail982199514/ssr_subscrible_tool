@@ -1,5 +1,5 @@
-#yeyeye233
-trojan://xWNqJaBc4uk8xlej@www.zhanan05.fun:443#yeyeye233
+#yeyeye233v2r
+vmess://eyJhZGQiOiIxMDMuMTQzLjgxLjIzMyIsImFpZCI6IjE2IiwiaG9zdCI6IiIsImlkIjoiMjQ4ZWU2MjAtMDU0NS0xMWViLTljOWQtMDAxNjNjYTJhMTRjIiwibmV0Ijoia2NwIiwicGF0aCI6IiIsInBvcnQiOiI0OTg2NyIsInBzIjoieWV5ZXllMjMzdjIiLCJ0bHMiOiIiLCJ0eXBlIjoid2lyZWd1YXJkIiwidiI6IjIifQ==
 #yeyeye111
 trojan://KAF3G1fBEuCsE6YE@www.zhanan04.icu:443#yeyeye111
 #yeyeye116
@@ -18,7 +18,6 @@ trojan://mpKeYTeGvkUSOKJD@www.zx14.bid:443#%E5%8D%B7%E5%95%8A%E5%8D%B7237
 trojan://MzvbMpShc7pq1ZKs@www.zx14.date:443#%E5%8D%B7%E5%95%8A%E5%8D%B7234
 #dc
 ss://cmM0LW1kNTpBQzZMdTVANDcuMTA3LjUzLjE4Njo0MTE2MQ#dc
-#ssrhk210
-ssr://OC4yMTAuMTU2LjIxMDo0Njg2MDphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpNak16TWpNLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9YzNOeWFHc3lNVEEmZ3JvdXA9
-#bw香港专线
-vmess://eyJhZGQiOiJpcGxjLmppamlmdW4uY29tIiwiYWlkIjoiMiIsImhvc3QiOiIiLCJpZCI6IkZFREJCRjhFLUVGRTEtQTI3MS1CM0JFLTY3NkQwOEE0QjgzNiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzAwMDIiLCJwcyI6ImJ36aaZ5riv5LiT57q/IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+#电脑线路v2r213
+vmess://eyJhZGQiOiI4LjIxMC4xMDkuMjEzIiwiYWlkIjoiMTYiLCJob3N0IjoiIiwiaWQiOiJhYWZmOGVlNi1mZmQwLTExZWEtODE1YS0wMDE2M2UwMjJlNzEiLCJuZXQiOiJrY3AiLCJwYXRoIjoiIiwicG9ydCI6IjU4MDIwIiwicHMiOiLnlLXohJHnur/ot692MnIyMTMiLCJ0bHMiOiIiLCJ0eXBlIjoic3J0cCIsInYiOiIyIn0=
+
