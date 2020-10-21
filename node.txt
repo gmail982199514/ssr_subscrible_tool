@@ -4,8 +4,10 @@ trojan://LsMtXFoUsCVC6iGv@www.zx12.date:443#yeyeye149
 trojan://fKcF9VEZ1L44vDQf@www.zx12.win:443#yeyeye236
 #yeyeye111
 trojan://KAF3G1fBEuCsE6YE@www.zhanan04.icu:443#yeyeye111
-#yeyeye132
-trojan://hfBpS0Dtoij4JXnF@www.zhanan16.date:443#yeyeye132
+#txv2r23
+vmess://YXV0bzo5ZWNiNjA2OS1kNDMzLTRjODctYTJkOC1mNTlmODg2OTdkNmVAMTAxLjMyLjIwNC4yMzo0MTkwMw?remarks=txv2r23&obfs=none
+#txv2r31
+vmess://YXV0bzo1MmU3MmRhYi03YWYwLTQ4ZWEtYjIwOS1hYmNhMjEyZmE0NzZAMTAxLjMyLjIwMi4zMTozNjQ0NQ?remarks=txv2r31&obfs=none
 #騰訊181
 trojan://neOzD1RG69SWvDXA@www.zx02.top:443#%E9%A8%B0%E8%A8%8A181
 #騰訊171
