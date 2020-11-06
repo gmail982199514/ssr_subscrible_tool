@@ -14,8 +14,8 @@ trojan://yHIFY9ameeMwsc9I@www.zx14.win:443#yeyeye131
 trojan://DzOIconyc8oVriBC@www.zx14.loan:443#yeyeye130
 #yeyeye132
 trojan://4BuqvPCvG4Nh4bj1@www.zx14.men:443#yeyeye132
-#txv2r23
-vmess://YXV0bzo5ZWNiNjA2OS1kNDMzLTRjODctYTJkOC1mNTlmODg2OTdkNmVAMTAxLjMyLjIwNC4yMzo0MTkwMw?remarks=txv2r23&obfs=none
+#tx23
+ssr://MTAxLjMyLjIwNC4yMzo2NTM2OmF1dGhfY2hhaW5fYTpub25lOnBsYWluOk9UWXpNQS8_cmVtYXJrcz1kSGd5TXcmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
 #txv2r31
 vmess://YXV0bzo1MmU3MmRhYi03YWYwLTQ4ZWEtYjIwOS1hYmNhMjEyZmE0NzZAMTAxLjMyLjIwMi4zMTozNjQ0NQ?remarks=txv2r31&obfs=none
 #騰訊181
