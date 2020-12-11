@@ -22,8 +22,6 @@ trojan://zPGsdLAujCZC46so@www.zx04.men:443#ztx182
 trojan://neOzD1RG69SWvDXA@www.zx02.top:443#%E9%A8%B0%E8%A8%8A181
 #騰訊171
 trojan://5oHbyCYHiNSlVy4W@www.zx05.loan:443#%E9%A8%B0%E8%A8%8A171
-#139
-ssr://MTE5LjI4LjgyLjEzOToyNTU4ODphdXRoX2FlczEyOF9tZDU6YWVzLTI1Ni1jdHI6aHR0cF9zaW1wbGU6TWpNME5EVTAvP29iZnNwYXJhbT1hSFIwY0hNNkx5OWtibVl1Y1hFdVkyOXRMMjFoYVc0dWMyaDBiV3cmcHJvdG9wYXJhbT0mcmVtYXJrcz1NVE01Jmdyb3VwPQ
-z卷卷啊179
+#z卷卷啊179
 trojan://vDyT5oNiEgiZxQyx@www.zhanan02.win:443#z%E5%8D%B7%E5%8D%B7%E5%95%8A179
 
