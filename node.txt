@@ -4,10 +4,10 @@ ssr://MjcuMTI0LjIwLjE0NzoyNjIyNTphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpNelExTmpZLz9vYm
 ssr://MjcuMTI0LjIwLjE0Nzo0NjQ1MjphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpNelExTmpZMi8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPU4wRXhORGN0TXcmZ3JvdXA9
 #zcn2gia221
 ssr://MjcuMTI0LjIwLjIyMTo1NTUyMjphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpNelExTlEvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz1lbU51TW1kcFlUSXlNUSZncm91cD0
+#zw116
+trojan://A5XRgbq1mbfyhw5q@www.hzy03.icu:443#zw116
 #z66y76
 trojan://3gb1okIeDYkA0TJj@www.zhen02.date:443#z66y76
-#z卷188
-trojan://hEMunuAKfY8dJHc4@www.zhanan05.fun:443#z%E5%8D%B7188
 #syeyeye129-2
 ssr://MTAzLjE0My44MS4xMjk6NTczMzk6YXV0aF9jaGFpbl9hOm5vbmU6cGxhaW46TXpRMU5RLz9yZW1hcmtzPWMzbGxlV1Y1WlRFeU9TMHkmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
 #syeyeye128-2
@@ -18,10 +18,7 @@ ssr://MTE5LjI4LjQyLjM2OjY0NzYyOmF1dGhfY2hhaW5fYTpub25lOnBsYWluOk1qTTBOUS8_cmVtYX
 ssr://MTAxLjMyLjE4Ny45Njo1MTY5NjphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpNak0wTlRVMi8_cmVtYXJrcz1lblI0T1RZJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
 #sm93-1
 ssr://MTA3LjE1MS44MS45MzoxMjY5NDphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpORE0xTmcvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz1jMjA1TXkweCZncm91cD0
-#Dc日本02
-ss://YWVzLTEyOC1nY206VlhQaXBpMjlueE1P@45.76.195.78:152?plugin=obfs-local;obfs=tls;obfs-host=1955b47841.wns.windows.com;obfs-uri=/#Dc%E6%97%A5%E6%9C%AC%2002
-#香港中转36
-ssr://Z3otaGsuaG1iY2xvdWQubmV0OjUwMDA3OmF1dGhfY2hhaW5fYTpub25lOnBsYWluOk1qTTBOUS8_cmVtYXJrcz02YWFaNXJpdjVMaXQ2TDJzTXpZJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
+
 
 
 
